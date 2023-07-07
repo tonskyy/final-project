@@ -1,6 +1,2 @@
-Panduan :
-KODE PESERTA 	: INPG-PKJ-08-045
-NAMA LENGKAP	: TONNY WARDANI
-SESI		: 8 (FINAL PROJECTS)
-
-Cara menjalankan aplikasi di local :
+Fully working PHP/AJAX contact form script is available in the pro version of the template.
+You can buy it from: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
